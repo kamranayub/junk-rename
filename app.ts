@@ -1,3 +1,4 @@
+// @ts-ignore
 function app() {
   const hello = "world";
   return `
