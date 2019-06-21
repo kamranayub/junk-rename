@@ -1,6 +1,6 @@
-// @ts-ignore
-function app() {
-  const hello = "world";
+function app(): string {
+  const hello: string = "world";
+
   return `
     <html>
       <head>
